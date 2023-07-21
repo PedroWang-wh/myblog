@@ -7,4 +7,3 @@ draft: true
 # My First Blog
 
 ## 这是我的第一个博客，在自己的网站上发表
-- 很高兴见到你
