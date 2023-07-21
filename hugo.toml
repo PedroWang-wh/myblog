@@ -1,5 +1,5 @@
 baseurl = "http://www.example.com"
-title = "王浩的博客"
+title = "Home"
 theme = 'ananke'
 languagecode = "en"
 defaultcontentlanguage = "en"
