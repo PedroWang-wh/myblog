@@ -1,7 +1,6 @@
-
 baseurl = "http://www.example.com"
 title = "Home"
-theme = 'ananke'
+theme = 'papermod'
 languagecode = "en"
 defaultcontentlanguage = "en"
 
